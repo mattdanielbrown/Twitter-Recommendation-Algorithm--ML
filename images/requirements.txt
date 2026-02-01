@@ -92,7 +92,7 @@ portalocker==2.6.0
 portpicker==1.5.2
 pre-commit==3.0.4
 prompt-toolkit==3.0.36
-protobuf==3.20.2
+protobuf==6.33.5
 psutil==5.9.4
 ptyprocess==0.7.0
 pure-eval==0.2.2
@@ -130,7 +130,7 @@ tensorflow-io-gcs-filesystem==0.30.0
 termcolor==2.2.0
 toml==0.10.2
 tomli==2.0.1
-torch==1.13.1
+torch==2.10.0
 torchmetrics==0.11.0
 torchrec==0.3.2
 torchsnapshot==0.1.0
